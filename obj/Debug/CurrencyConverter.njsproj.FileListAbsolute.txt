@@ -1,0 +1,4 @@
+C:\Users\vzezj\source\repos\CurrencyConverter\CurrencyConverter\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\markl\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.njsprojAssemblyReference.cache
+C:\Users\markl\Desktop\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.njsproj.CoreCompileInputs.cache
+C:\Users\markl\Desktop\CurrencyConverter\CurrencyConverter\bin\Microsoft.NodejsTools.WebRole.dll
